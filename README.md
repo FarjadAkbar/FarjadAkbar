@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Farjad
+### Software Engineer | Full-Stack Developer
 
-<!--
-**FarjadAkbar/FarjadAkbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production-ready web apps, SaaS platforms, AI automations, and secure payment systems using:
 
-Here are some ideas to get you started:
+**Laravel • Vue.js • React • Node.js • NestJS • Prisma • Stripe**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Do
+- Build & scale SaaS platforms  
+- Stripe Connect payments + automation  
+- AI agents & workflow automation  
+- AdminJS dashboards & custom CMS  
+- Chat systems, rating systems, multi-tenant apps  
+
+---
+
+### 🛠️ Tech Stack
+**Frontend:** React, Vue.js, Next.js  
+**Backend:** Laravel, Node.js, NestJS  
+**Database:** MySQL, PostgreSQL, Prisma, MongoDB  
+**Payments:** Stripe, PayPal  
+**Cloud:** AWS, Vercel, Docker  
+
+---
+
+### 📌 Featured Projects
+- **Finyou** – Investment platform with Stripe automation  
+- **Botsify integrations** – Chat system, workflows, and AI tools  
+- **SaaS Starter Kit** – Multi-tenant SaaS boilerplate  
+
+---
+
+### 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/farjad-akbar
+- Website: https://portfolio-olo3.vercel.app/
+- Email: farjadakbar4@gmail.com
